@@ -1,7 +1,7 @@
 .turbo/
 .cursorrules
 
-**/dist/**
+
 **/node_modules/**
 **/build/**
 **/cache/**

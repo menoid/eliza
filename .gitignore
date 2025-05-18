@@ -11,7 +11,7 @@ node_modules
 .zed
 .DS_Store
 
-dist/
+
 # Allow models directory but ignore model files
 db/
 
